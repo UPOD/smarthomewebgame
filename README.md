@@ -1,9 +1,9 @@
 # smarthomewebgame
 
 ## Dependencies
- - Frontend (javascript)
-   - jQuery
-   - game engine ?
+ - Frontend (web, javascript)
+   - phaser 
+     - Javascript game engine
  - Backend (node.js)
    - socket.io
      - For establishing the websocket connection between the server and a client
