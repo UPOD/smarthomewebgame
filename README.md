@@ -1,7 +1,7 @@
 # smarthomewebgame
 
 ## Dependencies
-    - socket.io
-    - express
-    - jade
-    - mongodb
+ - socket.io
+ - express
+ - jade
+ - mongodb
